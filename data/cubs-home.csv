@@ -1,0 +1,82 @@
+START DATE,START TIME,START TIME ET,SUBJECT,LOCATION,DESCRIPTION,END DATE,END DATE ET,END TIME,END TIME ET,REMINDER OFF,REMINDER ON,REMINDER DATE,REMINDER TIME,REMINDER TIME ET,SHOWTIMEAS FREE,SHOWTIMEAS BUSY
+03/30/23,01:20 PM,02:20 PM,Brewers at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",03/30/23,03/30/23,04:20 PM,05:20 PM,FALSE,TRUE,03/30/23,12:20 PM,01:20 PM,FREE,BUSY
+04/01/23,01:20 PM,02:20 PM,Brewers at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",04/01/23,04/01/23,04:20 PM,05:20 PM,FALSE,TRUE,04/01/23,12:20 PM,01:20 PM,FREE,BUSY
+04/02/23,01:20 PM,02:20 PM,Brewers at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",04/02/23,04/02/23,04:20 PM,05:20 PM,FALSE,TRUE,04/02/23,12:20 PM,01:20 PM,FREE,BUSY
+04/07/23,01:20 PM,02:20 PM,Rangers at Cubs,Wrigley Field - Chicago,"Local TV: Apple TV+ ----- Local Radio: 670 The Score",04/07/23,04/07/23,04:20 PM,05:20 PM,FALSE,TRUE,04/07/23,12:20 PM,01:20 PM,FREE,BUSY
+04/08/23,03:05 PM,04:05 PM,Rangers at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",04/08/23,04/08/23,06:05 PM,07:05 PM,FALSE,TRUE,04/08/23,02:05 PM,03:05 PM,FREE,BUSY
+04/09/23,01:20 PM,02:20 PM,Rangers at Cubs,Wrigley Field - Chicago,"Local Radio: 670 The Score",04/09/23,04/09/23,04:20 PM,05:20 PM,FALSE,TRUE,04/09/23,12:20 PM,01:20 PM,FREE,BUSY
+04/10/23,06:40 PM,07:40 PM,Mariners at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",04/10/23,04/10/23,09:40 PM,10:40 PM,FALSE,TRUE,04/10/23,05:40 PM,06:40 PM,FREE,BUSY
+04/11/23,06:40 PM,07:40 PM,Mariners at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",04/11/23,04/11/23,09:40 PM,10:40 PM,FALSE,TRUE,04/11/23,05:40 PM,06:40 PM,FREE,BUSY
+04/12/23,01:20 PM,02:20 PM,Mariners at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",04/12/23,04/12/23,04:20 PM,05:20 PM,FALSE,TRUE,04/12/23,12:20 PM,01:20 PM,FREE,BUSY
+04/20/23,06:40 PM,07:40 PM,Dodgers at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",04/20/23,04/20/23,09:40 PM,10:40 PM,FALSE,TRUE,04/20/23,05:40 PM,06:40 PM,FREE,BUSY
+04/21/23,01:20 PM,02:20 PM,Dodgers at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",04/21/23,04/21/23,04:20 PM,05:20 PM,FALSE,TRUE,04/21/23,12:20 PM,01:20 PM,FREE,BUSY
+04/22/23,01:20 PM,02:20 PM,Dodgers at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",04/22/23,04/22/23,04:20 PM,05:20 PM,FALSE,TRUE,04/22/23,12:20 PM,01:20 PM,FREE,BUSY
+04/23/23,01:20 PM,02:20 PM,Dodgers at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",04/23/23,04/23/23,04:20 PM,05:20 PM,FALSE,TRUE,04/23/23,12:20 PM,01:20 PM,FREE,BUSY
+04/25/23,06:40 PM,07:40 PM,Padres at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",04/25/23,04/25/23,09:40 PM,10:40 PM,FALSE,TRUE,04/25/23,05:40 PM,06:40 PM,FREE,BUSY
+04/26/23,06:40 PM,07:40 PM,Padres at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",04/26/23,04/26/23,09:40 PM,10:40 PM,FALSE,TRUE,04/26/23,05:40 PM,06:40 PM,FREE,BUSY
+04/27/23,01:20 PM,02:20 PM,Padres at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",04/27/23,04/27/23,04:20 PM,05:20 PM,FALSE,TRUE,04/27/23,12:20 PM,01:20 PM,FREE,BUSY
+05/05/23,01:20 PM,02:20 PM,Marlins at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",05/05/23,05/05/23,04:20 PM,05:20 PM,FALSE,TRUE,05/05/23,12:20 PM,01:20 PM,FREE,BUSY
+05/06/23,01:20 PM,02:20 PM,Marlins at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",05/06/23,05/06/23,04:20 PM,05:20 PM,FALSE,TRUE,05/06/23,12:20 PM,01:20 PM,FREE,BUSY
+05/07/23,01:20 PM,02:20 PM,Marlins at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",05/07/23,05/07/23,04:20 PM,05:20 PM,FALSE,TRUE,05/07/23,12:20 PM,01:20 PM,FREE,BUSY
+05/08/23,06:40 PM,07:40 PM,Cardinals at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",05/08/23,05/08/23,09:40 PM,10:40 PM,FALSE,TRUE,05/08/23,05:40 PM,06:40 PM,FREE,BUSY
+05/09/23,06:40 PM,07:40 PM,Cardinals at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",05/09/23,05/09/23,09:40 PM,10:40 PM,FALSE,TRUE,05/09/23,05:40 PM,06:40 PM,FREE,BUSY
+05/10/23,06:40 PM,07:40 PM,Cardinals at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",05/10/23,05/10/23,09:40 PM,10:40 PM,FALSE,TRUE,05/10/23,05:40 PM,06:40 PM,FREE,BUSY
+05/23/23,06:40 PM,07:40 PM,Mets at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network",05/23/23,05/23/23,09:40 PM,10:40 PM,FALSE,TRUE,05/23/23,05:40 PM,06:40 PM,FREE,BUSY
+05/24/23,06:40 PM,07:40 PM,Mets at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network",05/24/23,05/24/23,09:40 PM,10:40 PM,FALSE,TRUE,05/24/23,05:40 PM,06:40 PM,FREE,BUSY
+05/25/23,06:40 PM,07:40 PM,Mets at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network",05/25/23,05/25/23,09:40 PM,10:40 PM,FALSE,TRUE,05/25/23,05:40 PM,06:40 PM,FREE,BUSY
+05/26/23,01:20 PM,02:20 PM,Reds at Cubs,Wrigley Field - Chicago,"Local Radio: 670 The Score",05/26/23,05/26/23,04:20 PM,05:20 PM,FALSE,TRUE,05/26/23,12:20 PM,01:20 PM,FREE,BUSY
+05/27/23,06:15 PM,07:15 PM,Reds at Cubs,Wrigley Field - Chicago,"Local TV: FOX ----- Local Radio: 670 The Score",05/27/23,05/27/23,09:15 PM,10:15 PM,FALSE,TRUE,05/27/23,05:15 PM,06:15 PM,FREE,BUSY
+05/28/23,01:20 PM,02:20 PM,Reds at Cubs,Wrigley Field - Chicago,"Local Radio: 670 The Score",05/28/23,05/28/23,04:20 PM,05:20 PM,FALSE,TRUE,05/28/23,12:20 PM,01:20 PM,FREE,BUSY
+05/29/23,01:20 PM,02:20 PM,Rays at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network",05/29/23,05/29/23,04:20 PM,05:20 PM,FALSE,TRUE,05/29/23,12:20 PM,01:20 PM,FREE,BUSY
+05/30/23,07:05 PM,08:05 PM,Rays at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network",05/30/23,05/30/23,10:05 PM,11:05 PM,FALSE,TRUE,05/30/23,06:05 PM,07:05 PM,FREE,BUSY
+05/31/23,01:20 PM,02:20 PM,Rays at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network",05/31/23,05/31/23,04:20 PM,05:20 PM,FALSE,TRUE,05/31/23,12:20 PM,01:20 PM,FREE,BUSY
+06/13/23,07:05 PM,08:05 PM,Pirates at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",06/13/23,06/13/23,10:05 PM,11:05 PM,FALSE,TRUE,06/13/23,06:05 PM,07:05 PM,FREE,BUSY
+06/14/23,07:05 PM,08:05 PM,Pirates at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",06/14/23,06/14/23,10:05 PM,11:05 PM,FALSE,TRUE,06/14/23,06:05 PM,07:05 PM,FREE,BUSY
+06/15/23,07:05 PM,08:05 PM,Pirates at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",06/15/23,06/15/23,10:05 PM,11:05 PM,FALSE,TRUE,06/15/23,06:05 PM,07:05 PM,FREE,BUSY
+06/16/23,01:20 PM,02:20 PM,Orioles at Cubs,Wrigley Field - Chicago,"Local Radio: 670 The Score",06/16/23,06/16/23,04:20 PM,05:20 PM,FALSE,TRUE,06/16/23,12:20 PM,01:20 PM,FREE,BUSY
+06/17/23,01:20 PM,02:20 PM,Orioles at Cubs,Wrigley Field - Chicago,"Local Radio: 670 The Score",06/17/23,06/17/23,04:20 PM,05:20 PM,FALSE,TRUE,06/17/23,12:20 PM,01:20 PM,FREE,BUSY
+06/18/23,12:05 PM,01:05 PM,Orioles at Cubs,Wrigley Field - Chicago,"Local Radio: 670 The Score",06/18/23,06/18/23,03:05 PM,04:05 PM,FALSE,TRUE,06/18/23,11:05 AM,12:05 PM,FREE,BUSY
+06/27/23,07:05 PM,08:05 PM,Phillies at Cubs,Wrigley Field - Chicago,"",06/27/23,06/27/23,10:05 PM,11:05 PM,FALSE,TRUE,06/27/23,06:05 PM,07:05 PM,FREE,BUSY
+06/28/23,07:05 PM,08:05 PM,Phillies at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",06/28/23,06/28/23,10:05 PM,11:05 PM,FALSE,TRUE,06/28/23,06:05 PM,07:05 PM,FREE,BUSY
+06/29/23,07:05 PM,08:05 PM,Phillies at Cubs,Wrigley Field - Chicago,"",06/29/23,06/29/23,10:05 PM,11:05 PM,FALSE,TRUE,06/29/23,06:05 PM,07:05 PM,FREE,BUSY
+06/30/23,01:20 PM,02:20 PM,Guardians at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score- TUDN WRTO 1200",06/30/23,06/30/23,04:20 PM,05:20 PM,FALSE,TRUE,06/30/23,12:20 PM,01:20 PM,FREE,BUSY
+07/01/23,06:15 PM,07:15 PM,Guardians at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",07/01/23,07/01/23,09:15 PM,10:15 PM,FALSE,TRUE,07/01/23,05:15 PM,06:15 PM,FREE,BUSY
+07/02/23,01:20 PM,02:20 PM,Guardians at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score- TUDN WRTO 1200",07/02/23,07/02/23,04:20 PM,05:20 PM,FALSE,TRUE,07/02/23,12:20 PM,01:20 PM,FREE,BUSY
+07/14/23,07:05 PM,08:05 PM,Red Sox at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",07/14/23,07/14/23,10:05 PM,11:05 PM,FALSE,TRUE,07/14/23,06:05 PM,07:05 PM,FREE,BUSY
+07/15/23,01:20 PM,02:20 PM,Red Sox at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",07/15/23,07/15/23,04:20 PM,05:20 PM,FALSE,TRUE,07/15/23,12:20 PM,01:20 PM,FREE,BUSY
+07/16/23,01:20 PM,02:20 PM,Red Sox at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",07/16/23,07/16/23,04:20 PM,05:20 PM,FALSE,TRUE,07/16/23,12:20 PM,01:20 PM,FREE,BUSY
+07/17/23,07:05 PM,08:05 PM,Nationals at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",07/17/23,07/17/23,10:05 PM,11:05 PM,FALSE,TRUE,07/17/23,06:05 PM,07:05 PM,FREE,BUSY
+07/18/23,07:05 PM,08:05 PM,Nationals at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",07/18/23,07/18/23,10:05 PM,11:05 PM,FALSE,TRUE,07/18/23,06:05 PM,07:05 PM,FREE,BUSY
+07/19/23,07:05 PM,08:05 PM,Nationals at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",07/19/23,07/19/23,10:05 PM,11:05 PM,FALSE,TRUE,07/19/23,06:05 PM,07:05 PM,FREE,BUSY
+07/20/23,07:05 PM,08:05 PM,Cardinals at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",07/20/23,07/20/23,10:05 PM,11:05 PM,FALSE,TRUE,07/20/23,06:05 PM,07:05 PM,FREE,BUSY
+07/21/23,01:20 PM,02:20 PM,Cardinals at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",07/21/23,07/21/23,04:20 PM,05:20 PM,FALSE,TRUE,07/21/23,12:20 PM,01:20 PM,FREE,BUSY
+07/22/23,01:20 PM,02:20 PM,Cardinals at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",07/22/23,07/22/23,04:20 PM,05:20 PM,FALSE,TRUE,07/22/23,12:20 PM,01:20 PM,FREE,BUSY
+07/23/23,01:20 PM,02:20 PM,Cardinals at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",07/23/23,07/23/23,04:20 PM,05:20 PM,FALSE,TRUE,07/23/23,12:20 PM,01:20 PM,FREE,BUSY
+07/31/23,07:05 PM,08:05 PM,Reds at Cubs,Wrigley Field - Chicago,"Local Radio: 670 The Score",07/31/23,07/31/23,10:05 PM,11:05 PM,FALSE,TRUE,07/31/23,06:05 PM,07:05 PM,FREE,BUSY
+08/01/23,07:05 PM,08:05 PM,Reds at Cubs,Wrigley Field - Chicago,"Local Radio: 670 The Score",08/01/23,08/01/23,10:05 PM,11:05 PM,FALSE,TRUE,08/01/23,06:05 PM,07:05 PM,FREE,BUSY
+08/02/23,07:05 PM,08:05 PM,Reds at Cubs,Wrigley Field - Chicago,"Local Radio: 670 The Score",08/02/23,08/02/23,10:05 PM,11:05 PM,FALSE,TRUE,08/02/23,06:05 PM,07:05 PM,FREE,BUSY
+08/03/23,07:05 PM,08:05 PM,Reds at Cubs,Wrigley Field - Chicago,"Local Radio: 670 The Score",08/03/23,08/03/23,10:05 PM,11:05 PM,FALSE,TRUE,08/03/23,06:05 PM,07:05 PM,FREE,BUSY
+08/04/23,01:20 PM,02:20 PM,Braves at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",08/04/23,08/04/23,04:20 PM,05:20 PM,FALSE,TRUE,08/04/23,12:20 PM,01:20 PM,FREE,BUSY
+08/05/23,01:20 PM,02:20 PM,Braves at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",08/05/23,08/05/23,04:20 PM,05:20 PM,FALSE,TRUE,08/05/23,12:20 PM,01:20 PM,FREE,BUSY
+08/06/23,01:20 PM,02:20 PM,Braves at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",08/06/23,08/06/23,04:20 PM,05:20 PM,FALSE,TRUE,08/06/23,12:20 PM,01:20 PM,FREE,BUSY
+08/15/23,07:05 PM,08:05 PM,White Sox at Cubs,Wrigley Field - Chicago,"",08/15/23,08/15/23,10:05 PM,11:05 PM,FALSE,TRUE,08/15/23,06:05 PM,07:05 PM,FREE,BUSY
+08/16/23,07:05 PM,08:05 PM,White Sox at Cubs,Wrigley Field - Chicago,"",08/16/23,08/16/23,10:05 PM,11:05 PM,FALSE,TRUE,08/16/23,06:05 PM,07:05 PM,FREE,BUSY
+08/18/23,01:20 PM,02:20 PM,Royals at Cubs,Wrigley Field - Chicago,"Local Radio: 670 The Score",08/18/23,08/18/23,04:20 PM,05:20 PM,FALSE,TRUE,08/18/23,12:20 PM,01:20 PM,FREE,BUSY
+08/19/23,01:20 PM,02:20 PM,Royals at Cubs,Wrigley Field - Chicago,"Local Radio: 670 The Score",08/19/23,08/19/23,04:20 PM,05:20 PM,FALSE,TRUE,08/19/23,12:20 PM,01:20 PM,FREE,BUSY
+08/20/23,01:20 PM,02:20 PM,Royals at Cubs,Wrigley Field - Chicago,"Local Radio: 670 The Score",08/20/23,08/20/23,04:20 PM,05:20 PM,FALSE,TRUE,08/20/23,12:20 PM,01:20 PM,FREE,BUSY
+08/28/23,07:05 PM,08:05 PM,Brewers at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",08/28/23,08/28/23,10:05 PM,11:05 PM,FALSE,TRUE,08/28/23,06:05 PM,07:05 PM,FREE,BUSY
+08/29/23,07:05 PM,08:05 PM,Brewers at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",08/29/23,08/29/23,10:05 PM,11:05 PM,FALSE,TRUE,08/29/23,06:05 PM,07:05 PM,FREE,BUSY
+08/30/23,01:20 PM,02:20 PM,Brewers at Cubs,Wrigley Field - Chicago,"Local Radio: TUDN WRTO 1200",08/30/23,08/30/23,04:20 PM,05:20 PM,FALSE,TRUE,08/30/23,12:20 PM,01:20 PM,FREE,BUSY
+09/04/23,01:20 PM,02:20 PM,Giants at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",09/04/23,09/04/23,04:20 PM,05:20 PM,FALSE,TRUE,09/04/23,12:20 PM,01:20 PM,FREE,BUSY
+09/05/23,06:40 PM,07:40 PM,Giants at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",09/05/23,09/05/23,09:40 PM,10:40 PM,FALSE,TRUE,09/05/23,05:40 PM,06:40 PM,FREE,BUSY
+09/06/23,01:20 PM,02:20 PM,Giants at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",09/06/23,09/06/23,04:20 PM,05:20 PM,FALSE,TRUE,09/06/23,12:20 PM,01:20 PM,FREE,BUSY
+09/07/23,06:40 PM,07:40 PM,D-backs at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",09/07/23,09/07/23,09:40 PM,10:40 PM,FALSE,TRUE,09/07/23,05:40 PM,06:40 PM,FREE,BUSY
+09/08/23,01:20 PM,02:20 PM,D-backs at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",09/08/23,09/08/23,04:20 PM,05:20 PM,FALSE,TRUE,09/08/23,12:20 PM,01:20 PM,FREE,BUSY
+09/09/23,01:20 PM,02:20 PM,D-backs at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",09/09/23,09/09/23,04:20 PM,05:20 PM,FALSE,TRUE,09/09/23,12:20 PM,01:20 PM,FREE,BUSY
+09/10/23,01:20 PM,02:20 PM,D-backs at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",09/10/23,09/10/23,04:20 PM,05:20 PM,FALSE,TRUE,09/10/23,12:20 PM,01:20 PM,FREE,BUSY
+09/19/23,06:40 PM,07:40 PM,Pirates at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",09/19/23,09/19/23,09:40 PM,10:40 PM,FALSE,TRUE,09/19/23,05:40 PM,06:40 PM,FREE,BUSY
+09/20/23,06:40 PM,07:40 PM,Pirates at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",09/20/23,09/20/23,09:40 PM,10:40 PM,FALSE,TRUE,09/20/23,05:40 PM,06:40 PM,FREE,BUSY
+09/21/23,06:40 PM,07:40 PM,Pirates at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",09/21/23,09/21/23,09:40 PM,10:40 PM,FALSE,TRUE,09/21/23,05:40 PM,06:40 PM,FREE,BUSY
+09/22/23,01:20 PM,02:20 PM,Rockies at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",09/22/23,09/22/23,04:20 PM,05:20 PM,FALSE,TRUE,09/22/23,12:20 PM,01:20 PM,FREE,BUSY
+09/23/23,01:20 PM,02:20 PM,Rockies at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",09/23/23,09/23/23,04:20 PM,05:20 PM,FALSE,TRUE,09/23/23,12:20 PM,01:20 PM,FREE,BUSY
+09/24/23,01:20 PM,02:20 PM,Rockies at Cubs,Wrigley Field - Chicago,"Local TV: Marquee Sports Network ----- Local Radio: 670 The Score",09/24/23,09/24/23,04:20 PM,05:20 PM,FALSE,TRUE,09/24/23,12:20 PM,01:20 PM,FREE,BUSY
