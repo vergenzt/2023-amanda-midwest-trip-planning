@@ -1,4 +1,4 @@
-My wife wanted to visit a friend in Chicago, and wanted me to "write a script" to help find the cheapest date should visit when both the Cubs and the White Sox would be playing games on consecutive days. This is the code for that. 😂
+My wife wanted to visit a friend in Chicago, and wanted me to "write a script" to help find the cheapest date she could visit when both the Cubs and the White Sox would be playing home games on consecutive days. This is the code for that. 😂
 
 (Derived from home game schedules downloaded from mlb.com, and combined with Google Flights data gathered from devtools network requests while I browsed their "Price graph".)
 
