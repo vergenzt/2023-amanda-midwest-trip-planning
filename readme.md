@@ -2,6 +2,8 @@ My wife wanted to visit a friend in Chicago, and wanted me to "write a script" t
 
 (Derived from home game schedules downloaded from mlb.com, and combined with Google Flights data gathered from devtools network requests while I browsed their "Price graph".)
 
+(`query.sql` was run in duckdb.)
+
 
 | nearby_games | START DATE | dow | START TIME |        SUBJECT         |            LOCATION             | fly_there_date | fly_back_date | from_price |         bar          |
 |--------------|------------|-----|------------|------------------------|---------------------------------|----------------|---------------|------------|----------------------|
